@@ -17,10 +17,10 @@ dependencies:
   io: ^0.3.4
   json_annotation: ^4.0.0
   xml: ^4.1.0
-  yaml: ^2.2.1
+  yaml: ^3.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  build_runner: ^1.0.0
+  build_runner: ^1.11.5
   json_serializable: ^4.0.2
